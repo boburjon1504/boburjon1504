@@ -19,6 +19,6 @@
 
 <p align="center">
 	Vizitor Count<br>
-	<img src="https://profile-counter.glitch.me/muqimjon/count.svg"/>
+	<img src="https://profile-counter.glitch.me/boburjon1504/count.svg"/>
 </p>
 
