@@ -17,5 +17,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-
+<p align="center">
+	Vizitor Count<br>
+	<img src="https://profile-counter.glitch.me/muqimjon/count.svg"/>
+</p>
 
